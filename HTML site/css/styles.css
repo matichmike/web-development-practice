@@ -13,7 +13,13 @@
       height: 300px;
     }
 
+    
+
     h1, h3 {
       color: #66BFBF;
+    }
+
+    h1:hover, h3:hover {
+      color:blue;
     }
   
