@@ -2,21 +2,18 @@ body {
   font-family: "Montserrat";
 }
 
-h1 {  
-  font-family: 'Montserrat-Black, sans-serif';  
-  font-size: 3rem;  
-  line-height: 1.5;  
-  font-weight: 900;
+h1, h2, h3, h4, h5, h6 {  
+  font-family: 'Montserrat-Bold'; 
 }
 
 h2 {
-  font-family: 'Montserrat-Bold';  
+   
   font-size: 3rem;  
   line-height: 1.5;  
 }
 
 h3 {
-  font-family: 'Montserrat-Bold';
+ font-size: 1.5rem;
 }
 
 p {
@@ -36,6 +33,7 @@ p {
   font-family: "Montserrat-Black";
   font-size: 3.5rem;
   line-height: 1.5;
+  font-weight: 900;
 }
 
 .navbar {
